@@ -63,4 +63,7 @@ This project is licensed under the MIT License.
 
 ## Citation
 
-If you use this code in academic work, please cite the accompanying paper.
+If you use this code, please cite:
+
+Akyar, E., Akyar, H.  
+*Enumerating Finite Topologies via One-Point Expansions of Preorder Digraphs*, 2026.
