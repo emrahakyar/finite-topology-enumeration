@@ -3,6 +3,9 @@ Finite Topology Enumeration via One-Point Expansion
 
 Reference implementation accompanying the paper:
 "Enumerating Finite Topologies via One-Point Expansions of Preorder Digraphs"
+Authors:
+Emrah Akyar
+Handan Akyar
 
 This script:
 - Computes N(G) for a given preorder digraph
