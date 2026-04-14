@@ -1,3 +1,13 @@
+# Associated Paper
+
+This repository accompanies the paper:
+
+**Enumerating Finite Topologies via One-Point Expansions of Preorder Digraphs**
+
+**Authors:** Emrah Akyar, Handan Akyar
+
+*(under submission)*
+
 # Finite Topology Enumeration via One-Point Expansion
 
 This repository contains a reference Python implementation accompanying the paper:
